@@ -23,7 +23,7 @@ A dynamic and feature-rich classified advertisement platform where users can eas
 
 
 <details>
-  <summary><b>🔥 Click here to view more screenshots (Dashboard, Wallet, Map)</b></summary>
+  <summary><h3>🔥 Click here to view more screenshots (Dashboard, Wallet, Map)</h3></summary>
   <img width="540" height="1170" alt="wallet" src="https://github.com/user-attachments/assets/2af67c6c-726a-417f-a181-a9eaa5f47127" />
   <img width="540" height="1170" alt="reffer" src="https://github.com/user-attachments/assets/83018975-753f-4ddb-91c0-e1b08b4028b9" />
   <img width="540" height="1170" alt="listing_info" src="https://github.com/user-attachments/assets/bed7651d-73fe-440f-b997-bc6605b03f58" />
@@ -32,7 +32,6 @@ A dynamic and feature-rich classified advertisement platform where users can eas
   <img width="540" height="1170" alt="login" src="https://github.com/user-attachments/assets/8780659f-8978-4b5b-a524-4105be18177a" />
 <img width="540" height="1170" alt="Registration" src="https://github.com/user-attachments/assets/fef8befe-fbca-4881-a538-8ba62940ab1a" />
 
-# See More
   
 </details>
 
@@ -41,5 +40,5 @@ A dynamic and feature-rich classified advertisement platform where users can eas
 * **Database:** MySQL
 * **Key Integrations:** Payment Gateway (bKash/Nagad), OpenStreetMap.
 
-## 💡 What I Learned
+##  What I Learned
 Building this platform gave me a clear understanding of complex product architecture, including wallet systems, referral tracking, and relational data structuring. 
