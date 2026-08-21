@@ -32,21 +32,7 @@ A dynamic and feature-rich classified advertisement platform where users can eas
   <img width="540" height="1170" alt="login" src="https://github.com/user-attachments/assets/8780659f-8978-4b5b-a524-4105be18177a" />
 <img width="540" height="1170" alt="Registration" src="https://github.com/user-attachments/assets/fef8befe-fbca-4881-a538-8ba62940ab1a" />
 
-
-
-
-
-
-  
-  (আপনার ১৪৪৩.jpg - ড্যাশবোর্ডের ছবিটি এখানে দিন)
-  
-  (আপনার ১৪৫০.jpg - ওয়ালেটের ছবিটি এখানে দিন)
-  
-  (আপনার ১৪৫১.jpg - রেফারেল পেজের ছবিটি এখানে দিন)
-  
-  (আপনার ১৪৪৭.jpg - ম্যাপের ছবিটি এখানে দিন)
-  
-  (আপনার ১৪৪৯.jpg - রেজিস্ট্রেশন পেজের ছবিটি এখানে দিন)
+# See More
   
 </details>
 
@@ -56,4 +42,4 @@ A dynamic and feature-rich classified advertisement platform where users can eas
 * **Key Integrations:** Payment Gateway (bKash/Nagad), OpenStreetMap.
 
 ## 💡 What I Learned
-Building this platform gave me a clear understanding of complex product architecture, including wallet systems, referral tracking, and relational data structuring. This experience in managing advanced logic through a CMS is now helping me build robust custom backends using Python and Django.
+Building this platform gave me a clear understanding of complex product architecture, including wallet systems, referral tracking, and relational data structuring. 
