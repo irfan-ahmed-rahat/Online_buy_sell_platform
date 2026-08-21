@@ -1,11 +1,11 @@
-# Ghuriyan - Advanced Buy & Sell Marketplace 🛒
+# Ghuriyan - Advanced Buy & Sell Marketplace 
 
 A dynamic and feature-rich classified advertisement platform where users can easily list items, browse categories, and earn through a referral system. 
 
-## 🎥 Project Demo
+## Project Demo
 [Click here to watch the full Video Walkthrough on YouTube](#)
 
-## ✨ Key Features
+##  Key Features
 * **Advanced User Dashboard:** Dedicated panel for users to track their published, pending, and expired listings.
 * **Wallet & Referral System:** Users can earn via referrals and withdraw earnings using local payment gateways (bKash, Nagad).
 * **Location Mapping:** Integrated OpenStreetMap for precise ad location tagging.
