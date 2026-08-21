@@ -1,4 +1,4 @@
-# Ghuriyan - Advanced Buy & Sell Marketplace 
+# Advanced Buy & Sell Marketplace 
 
 A dynamic and feature-rich classified advertisement platform where users can easily list items, browse categories, and earn through a referral system. 
 
